@@ -1,7 +1,7 @@
 let isSpinning = true;
 
 let illo = new Zdog.Illustration({
-    element: '.zdog-canvas',
+    element: '.zdog',
     zoom: 4, //4x-zoom
     dragRotate: true,
     onDragStart : function(){
